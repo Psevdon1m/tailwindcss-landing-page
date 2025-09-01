@@ -1,31 +1,19 @@
-# Simple Tailwind CSS Starter
+# Simple Tailwind CSS Landing Page  
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+A minimal landing page built with **Tailwind CSS**.  
+The goal of this project is not to design a production-ready landing, but rather to **practice and maintain Tailwind CSS skills** by experimenting with layouts, components, and responsive design.  
 
-## Usage
+## Features  
+- ⚡️ Powered by Tailwind CSS (utility-first styling)  
+- 📱 Fully responsive layout  
+- 🎨 Clean and minimal design structure  
+- 🛠 Easy to extend with new sections or components  
 
-Install dependencies
+## Tech Stack  
+- **HTML5**  
+- **Tailwind CSS** (via CDN or PostCSS)  
 
-```
-npm install
-```
-
-Run Tailwind CLI in watch mode
-
-```
-npm run dev
-```
-
-You can use tailwind classes in any .html files in the root directory
-
-Put any custom CSS that you may have in the **src/input.css** file
-
-Add any config values to the **tailwind.config.js** file
-
-To build once, run
-
-```
-npm run build
-```
-
-You only need to deploy your html files and css/style.css
+## Setup & Usage  
+1. Clone this repository
+2. Open index.html with live server
+3. Run npm run watch for tracking tailwindcss changes
